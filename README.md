@@ -4,6 +4,8 @@ This creative work by Lejun is a digital port of the book [MaPiKulupuTu](https:/
 
 # ToDo
 * Events port is still in progress and halfway done (120/2xx).
+* Events containing Lipamanka font is tagged under Twine and will be handled later on with pictures support.
+* Authors will be contacted to see what can be done about reusing the cover, and "the Labyrinth". which aren’t under CC-BY.
 * A text review and layout rework will be necessary afterwards to ensure better lisibility.
 * Conversion to an apk is planned for distribution on f-droid.
 
