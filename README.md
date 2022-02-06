@@ -2,6 +2,9 @@
 
 This creative work by Lejun is a digital port of the book [MaPiKulupuTu](https://janketami.wordpress.com/2021/06/13/ma-pi-kulupu-tu-toki-pi-nasin-sina/) by R.Samys which itself is a COYA book based on the official Toki Pona book and [website](http://tokipona.org).
 
+# Twine
+All work so far has been done under [Twine](https://github.com/tweecode) browser editor, [Twinery](https://twinery.org/). [Ink](https://www.inklestudios.com/ink/) is an alternative that could’ve been used but seemed less easy for this usecase, especially when accounting for the end goal that is an F-Droid apk release. 
+
 # ToDo
 * Events/Passage port is done (230/230).
     ** It may be necessary to untangle the html passages’ network.
