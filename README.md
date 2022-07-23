@@ -1,3 +1,15 @@
+# Give Up GitHub
+
+This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
+
+You can now find this project at [https://codeberg.org/lejun/maPiKulupuTu_Twine](https://codeberg.org/lejun/maPiKulupuTu_Twine) instead.
+
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
+
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
+
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 This creative work by Lejun is a digital port of the book [MaPiKulupuTu](https://janketami.wordpress.com/2021/06/13/ma-pi-kulupu-tu-toki-pi-nasin-sina/) by R.Samys which itself is a COYA book based on the official Toki Pona book and [website](http://tokipona.org).
